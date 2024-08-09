@@ -229,6 +229,12 @@ const vuePreset = defineUnimportPreset({
     'useTransitionState',
     'useId',
     'useTemplateRef',
+    'hydrateOnInteraction',
+    'hydrateOnMediaQuery',
+    'hydrateOnVisible',
+    'hydrateOnIdle',
+    'useHost',
+    'useShadowRoot',
   ],
 })
 
